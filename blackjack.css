@@ -1,0 +1,35 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("tapete.jpg");
+    font-weight: bold;
+    text-align: center;
+    background-size: cover;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 80px;
+    margin-top: 25px;
+}
+
+p {
+    color: white;
+    font-size: 40px;
+}
+
+#message-el {
+    font-style: italic; 
+}
+
+button {
+    border: none;
+    color: #016f32;
+    width: 400px;
+    background-color: goldenrod;
+    font-size: 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
